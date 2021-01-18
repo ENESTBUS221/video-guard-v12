@@ -1,0 +1,33 @@
+{
+  "//1": "Suspects v12 Guard",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "v12 Guard",
+  "main": "suspects.js",
+  "scripts": {
+    "start": "node suspects.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dctr-antispam.js": "^0.1.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^4.0.10"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
